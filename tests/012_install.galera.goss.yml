@@ -1,11 +1,11 @@
 ---
 
 package:
-  mysql-server:
+  mysql-wsrep-server-5.6:
     installed: true
 
 package:
-  mysql-client:
+  mysql-wsrep-client-5.6:
     installed: true
 
 command:
